@@ -1,0 +1,15 @@
+{
+  "name": "atom-language-xquery",
+  "version": "0.1.0",
+  "description": "XQuery language support in Atom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arolle/atom-language-xquery/"
+  },
+  "license": "GPLv3",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {
+  }
+}
